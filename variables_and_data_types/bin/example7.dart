@@ -1,4 +1,4 @@
 void main(List<String> args) {
-  const myList = [1, 2, 3];
+  const List<int> myList = <int>[1, 2, 3];
   print(myList);
 }

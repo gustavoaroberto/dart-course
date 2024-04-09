@@ -1,6 +1,6 @@
 void main(List<String> args) {
   String name = 'foo';
-  var address = 'pirocos';
+  String address = 'pirocos';
   address = name;
   print(address);
 }

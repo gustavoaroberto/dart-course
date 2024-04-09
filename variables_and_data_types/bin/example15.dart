@@ -11,7 +11,7 @@ void main(List<String> args) {
   const bool someBoolean = true;
   print(!someBoolean);
 
-  const List<int> someList = [1, 2, 3];
+  const List<int> someList = <int>[1, 2, 3];
   print(someList);
 
   const Map<String, String> someMap = <String, String>{'foo': 'bar'};

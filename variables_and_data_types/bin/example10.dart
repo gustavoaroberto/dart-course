@@ -1,8 +1,8 @@
 void main(List<String> args) {
-  late final myValue = 10;
+  late final int myValue = 10;
   print(myValue);
 
-  late final yourValue = getValue();
+  late final int yourValue = getValue();
   print('we are here');
   print(yourValue);
 }

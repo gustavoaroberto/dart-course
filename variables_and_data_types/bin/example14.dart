@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  const List<String> theirNames = ['Alice', 'Bob', 'Carol'];
+  const List<String> theirNames = <String>['Alice', 'Bob', 'Carol'];
   print(theirNames);
 
   // ignore: non_constant_identifier_names

@@ -1,4 +1,4 @@
 void main(List<String> args) {
-  final age = 10;
+  final int age = 10;
   print(age);
 }
